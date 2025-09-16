@@ -1,6 +1,6 @@
 # Self-Refine (Ollama Slim Kit)
 
-> **Self-Refine = Generate → Critique → Refine**  
+> **Self-Refine = Generate → Feedback → Refine**  
 > 이 프로젝트는 OpenAI 의존성 없이 **Ollama 전용**으로 동작하
 는 **슬림 구조** Self-Refine 데모입니다.  
 > 챗봇 REPL, 오프라인 평가, 단일 데모 스크립트를 포함합니다.
@@ -127,6 +127,7 @@ python eval.py
 
 ## 📄 라이선스
 본 예제 코드는 자유롭게 수정/내부 활용 가능합니다.
+
 
 
 
