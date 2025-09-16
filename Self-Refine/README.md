@@ -113,6 +113,10 @@ python eval.py
 
 이런 입력은 Self-Refine 개선 효과가 눈에 띄게 드러납니다.
 
+결과:
+
+<img width="2746" height="272" alt="self-refine" src="https://github.com/user-attachments/assets/59a81d69-4c8c-458b-be11-a8112e4db19a" />
+
 ---
 
 ## 🛡️ 주의사항
@@ -123,5 +127,6 @@ python eval.py
 
 ## 📄 라이선스
 본 예제 코드는 자유롭게 수정/내부 활용 가능합니다.
+
 
 
