@@ -135,6 +135,10 @@ npm run dev
 # http://localhost:3000
 ```
 
+### 4) 결과
+
+<img width="850" height="468" alt="ChatGPT Bot(stream + Ollama)" src="https://github.com/user-attachments/assets/bd2834c7-a7e6-4852-94e0-3ae765d9949f" />
+
 ---
 
 ## 주요 파일 역할
