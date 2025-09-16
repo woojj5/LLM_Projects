@@ -8,7 +8,7 @@
 ---
 
 <p align ceneter>
-<img src= "![animation_oldstyle_oneloop (1)](https://github.com/user-attachments/assets/09f31ce5-76ad-402d-bbef-c0e9ee69fc1f) ">
+<img src= "https://github.com/user-attachments/assets/09f31ce5-76ad-402d-bbef-c0e9ee69fc1f">
 </p>
 
 
@@ -123,4 +123,5 @@ python eval.py
 
 ## 📄 라이선스
 본 예제 코드는 자유롭게 수정/내부 활용 가능합니다.
+
 
