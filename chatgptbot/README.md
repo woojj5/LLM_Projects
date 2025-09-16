@@ -273,5 +273,3 @@ curl.exe -N -X POST "http://127.0.0.1:8000/chat/stream" -H "Content-Type: applic
 ```
 
 ---
-
-> 이 문서를 `README.md`로 저장해서 리포지토리 루트(`chatgptbot/`)에 두고 사용하시면 됩니다.
